@@ -54,7 +54,7 @@
 - 🥇 Finalist in **Odoo Hackathon 2024 (Top 10 teams)**  
 - 📜 Certifications: Google Python Crash Course | NPTEL Innovation & Entrepreneurship  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kartik1402?theme=dark&font=Montserrat&ext=contest)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikjaju5?theme=dark&font=Montserrat&ext=contest)  
 
 ---
 
