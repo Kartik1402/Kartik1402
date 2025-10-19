@@ -69,7 +69,7 @@
 ## 📬 Let’s Connect  
 
 📧 Email: **kartikjaju0@gmail.com**  
-🔗 [LinkedIn](linkedin.com/in/kartik-jaju/) | [LeetCode](https://leetcode.com/u/kartikjaju5) | [GitHub](https://github.com/Kartik1402)  
+🔗 [LinkedIn](linkedin.com/in/kartik-jaju) | [LeetCode](https://leetcode.com/u/kartikjaju5) | [GitHub](https://github.com/Kartik1402)  
 
 ---
 
